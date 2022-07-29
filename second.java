@@ -1,6 +1,6 @@
 class Demo{
-//Bug-193 fixed
-public static void m1(){
+//Bug-193 re-fixed
+public static void m1(Integer a){
 
 }
 }
